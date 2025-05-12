@@ -1,0 +1,59 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "display": {
+    "color": "32"
+  },
+  "modules": [
+    {
+        "type": "title"
+    },
+    "separator",
+    {
+        "type": "os",
+        "format": "Fachschaft Informatik"
+    },
+    {
+        "type": "host",
+        "key": "Host",
+        "format": "Technische Hochschule Georg Simon Ohm"
+    },
+    {
+        "type": "host",
+        "key": "Webseite",
+        "format": "fachschaft.in"
+    },
+    {
+        "type": "host",
+        "key": "Standort",
+        "format": "Ruine Hohfederstraße"
+    },
+    {
+        "type": "uptime",
+        "key": "Uptime",
+        "format": "(10 + x) Jahre bis Umzug (5 < x < ∞)"
+    },
+    {
+        "type": "host",
+        "key": "Theme",
+        "format": "Dark"
+    },
+    {
+        "type": "host",
+        "key": "Regelstudienzeit",
+        "format": "-2.147.483.648"
+    },
+    {
+        "type": "host",
+        "key": "Memory",
+        "format": "128GB RAM (127.5GB von Chrome beansprucht)"
+    },
+    {
+        "type": "host",
+        "key": "Mitglieder",
+        "format": "337 Mitglieder (davon 1 produktiv)"
+    },
+    "break",
+    "colors"
+  ]
+}
+
