@@ -1,4 +1,4 @@
-<img src="./assets/Logo/FSIN_Logo_Green.svg" alt="Logo der Fachschaft Infomatik" width="300"/>
+<img src="assets/logo/FSIN_Logo_Green.svg" alt="Logo der Fachschaft Infomatik" width="300"/>
 
 # Informatik FS Logo
 This repo shows some sources in order to create a mock neofetch entry for our Fachschaft.
